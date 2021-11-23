@@ -1,0 +1,2 @@
+# React Boilerplate
+This repository is intended to help you become more [productive when developing React apps](https://medium.com/@samuelwintz/boost-your-productivity-as-a-web-developer-ec61353a9d99). It has an almost universal project directory structure.

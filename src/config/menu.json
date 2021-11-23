@@ -1,0 +1,31 @@
+{
+    "items": [{
+            "slug": "home",
+            "display": "Home",
+            "url": "/",
+            "list": []
+        },
+        {
+            "slug": "about",
+            "display": "About Me",
+            "url": "/about-me",
+            "list": []
+        },
+        {
+            "slug": "portfolio",
+            "display": "My Portfolio",
+            "url": "/#",
+            "list": [{
+                    "slug": "design",
+                    "display": "Design Projects",
+                    "url": "/design-projects"
+                },
+                {
+                    "slug": "development",
+                    "display": "Development Projects",
+                    "url": "/development-projects"
+                }
+            ]
+        }
+    ]
+}
